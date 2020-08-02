@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   numbers = ["1", "2", "3"]
-  
+  3 = numbers.pop
   
 end
 
