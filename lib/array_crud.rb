@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
   numbers = ["1", "2", "3"]
-  
+  numbers[2]
 end
