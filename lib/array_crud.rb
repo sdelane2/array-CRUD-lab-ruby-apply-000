@@ -19,11 +19,11 @@ end
 def remove_element_from_end_of_array(array)
   numbers = ["1", "2", "3"]
   3 = numbers.pop
-  
 end
 
 def remove_element_from_start_of_array(array)
-  
+  numbers = ["1", "2", "3"]
+  1 = numbers.
 end
 
 def retrieve_element_from_index(array, index_number)
